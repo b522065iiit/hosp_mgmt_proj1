@@ -1,0 +1,9 @@
+.search{
+    float: right;
+    background-color: darkgrey;
+}
+.navbar input{
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 100px;
+}
